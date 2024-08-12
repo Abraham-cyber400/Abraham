@@ -1,0 +1,51 @@
+e_modules/@whiskeysockets/baileys/lib/Utils/noise-
+
+handler.js:149:17
+
+at WebSocketClient.onMessageReceived(/hom
+
+e/container/node_modules/@whiskeysockets/baileys/1
+
+ib/Socket/socket.js:217:15
+
+at WebSocketClient.emit (node:events: 517:2
+
+8)
+
+at WebSocket.<anonymous> (/home/container/ node_modules/@whiskeysockets/baileys/lib/Socket/Cl
+
+ient/web-socket-client.js:46:100
+
+at WebSocket.emit (node: events:517:28)
+
+at Receiver.receiverOnMessage(/home/conta
+
+iner/node_modules/ws/lib/websocket.js:1220:20
+
+at Receiver.emit (node:events:517:28) {
+
+data: [Object],
+
+isBoom: true,
+
+isServer: false,
+
+output: [Object]
+
+},
+
+date: 2024-08-12T03:30:01.144Z
+
+}
+
+} [strava] Disconnected!
+
+Connection Update : {
+
+connection: 'connecting', receivedPendingNotifications: false,
+
+qr: undefined
+
+}
+
+>>> Type a command..
